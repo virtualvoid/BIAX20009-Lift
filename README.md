@@ -16,14 +16,6 @@ Cieľom projektu je modelovať systém výťahov v budove pomocou **Grafu udalos
 ## 😒 TODO
 - paralelné udalosti (viac výťahov, poruchy...)
 
-Projekt využíva:
-- **C# 9 / .NET 9**
-- **WPF** na vizualizáciu
-- **LiveCharts2** na vykreslenie vývoja fronty
-- **Bogus** na generovanie realistických mien osôb
-
----
-
 ## 📦 Funkcie
 
 - ⏳ **Simulačný kalendár** s priorizovanými udalosťami
@@ -39,8 +31,14 @@ Projekt využíva:
 
 ### Závislosti
 
+Projekt využíva:
+- **C# 9 / .NET 9**
+- **WPF** na vizualizáciu
+- **LiveCharts2** na vykreslenie vývoja fronty
+- **Bogus** na generovanie realistických mien osôb
+
 - [.NET 9 SDK](https://dotnet.microsoft.com/en-us/download)
-- Visual Studio 2022+ alebo Rider
+- Visual Studio 2022+ alebo Rider (preferred)
 - NuGet balíky:
   - `LiveChartsCore.SkiaSharpView.WPF`
   - `Bogus`
