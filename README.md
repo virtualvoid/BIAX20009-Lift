@@ -1,6 +1,6 @@
 # Elevator Event Graph Simulation
 
-Simulačný model výťahov vytvorený ako semestrálna úloha pre predmet **Modelovanie a Simulácia (BIAX20009)** na Fakulte informatiky.
+Simulačný model výťahov vytvorený ako semestrálna úloha pre predmet **Modelovanie a Simulácia (BIAX20009)** na Fakulte informatiky (Paneurópska vysoká škola, Bratislava).
 
 ![screenshot](./docs/screenshot.png)
 
