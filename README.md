@@ -12,6 +12,8 @@ Cieľom projektu je modelovať systém výťahov v budove pomocou **Grafu udalos
 - obsluha výťahom (odchod, návrat)
 - čakacie doby a fronty
 - odchody osôb pri dlhom čakaní
+
+## 😒 TODO
 - paralelné udalosti (viac výťahov, poruchy...)
 
 Projekt využíva:
@@ -29,12 +31,7 @@ Projekt využíva:
 - 👨‍👩‍👧‍👦 Príchody ľudí v náhodne veľkých skupinách
 - 🚪 Odchody osôb, ktoré čakali príliš dlho
 - 📈 Live graf počtu ľudí vo fronte
-- 🧱 Vizualizácia výťahu a fronty v `Canvas`
 - 🧾 Farebný log udalostí podľa typu
-
----
-
-???
 
 ---
 
