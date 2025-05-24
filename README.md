@@ -29,8 +29,6 @@ Cieľom projektu je modelovať systém výťahov v budove pomocou **Grafu udalos
 
 ## ▶️ Spustenie
 
-### Závislosti
-
 Projekt využíva:
 - **C# 9 / .NET 9**
 - **WPF** na vizualizáciu
